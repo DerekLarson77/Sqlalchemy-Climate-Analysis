@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# Sqlalchemy-Climate-Analysis
 
 A connection was made to a sqlite database hawaii in the Resources folder to get daily temperatures and precipitations 
 by date from different station readers.
@@ -18,3 +18,4 @@ B)  Flask app.py
 		d)  start - returns the minimum, maximum and average reading between the stations for each date
 			starting with the date entered in the URL.
 		e)  start/end - the same as the start page, but allows the user to also add an end date.
+![image](https://user-images.githubusercontent.com/80318883/132769769-f7ed7a40-bd94-4364-9f7b-6eaab1d5df3e.png)
